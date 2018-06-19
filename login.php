@@ -13,7 +13,7 @@
 	
 	<form method="post" action="login.php">
 
-		<?php include('errors.php'); ?>
+		<?php include('errors.php'); //komentar?>
 
 		<div class="input-group">
 			<label>Email</label>
