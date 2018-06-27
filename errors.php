@@ -1,4 +1,9 @@
 <?php  if (count($errors) > 0) : ?>
+
+<!-- tralalalallalalalalallala -->
+<!-- tralalalallalalalalallala -->
+<!-- tralalalallalalalalallala -->
+<!-- tralalalallalalalalallala -->
 	<div class="error">
 		<?php foreach ($errors as $error) : ?>
 			<p><?php echo $error ?></p>

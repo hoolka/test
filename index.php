@@ -16,10 +16,7 @@
 ?>
 <!DOCTYPE html>
 
-<!-- tralalalallalalalalallala -->
-<!-- tralalalallalalalalallala -->
-<!-- tralalalallalalalalallala -->
-<!-- tralalalallalalalalallala -->
+
 <!-- tralalalallalalalalallala -->
 
 <html>
