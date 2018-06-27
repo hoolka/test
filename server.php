@@ -38,7 +38,7 @@ if (isset($_POST['reg_user'])) {
         $query = "INSERT INTO users (email, password, role, first_name, last_name, vacation, sick, ho, vtd, vtd_fm, team) 
 					  VALUES('$email', '$password', '$role', '$first_name', '$last_name', '$vacation', '$ho', '$vtd', '$vtd_fm', '$team')";
         mysqli_query($db, $query);
-
+		//komentar
         //$_SESSION['username'] = $email;
         //$_SESSION['success'] = "You are now logged in";
         header('location: index.php');
